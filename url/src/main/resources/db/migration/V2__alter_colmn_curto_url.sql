@@ -1,0 +1,1 @@
+ALTER TABLE encurtador ALTER COLUMN curto_url DROP NOT NULL;

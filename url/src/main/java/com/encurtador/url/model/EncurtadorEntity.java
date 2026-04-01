@@ -13,6 +13,7 @@ import java.time.LocalDateTime;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+@Table(name = "encurtador")
 public class EncurtadorEntity {
 
     @Id
